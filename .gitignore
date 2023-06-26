@@ -1,7 +1,7 @@
 local.sh
 *.env
 
-# Terraform
+# Terraforme
 *.terraform.lock*
 .terraform*
 
